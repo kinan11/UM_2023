@@ -1,0 +1,30 @@
+# Pliki wygenerowane przez Python
+*.pyc
+__pycache__/
+
+# Środowisko wirtualne (zakładając, że jesteś wirtualne środowisko)
+venv/
+env/
+ENV/
+
+# Pliki konfiguracyjne
+*.env
+*.cfg
+*.ini
+
+# Dane treningowe i model
+/data/
+/model/
+A_Z Handwritten Data.csv
+
+# Pliki wynikowe i logi
+/results/
+/logs/
+
+# Środowisko IDE
+.idea/
+.vscode/
+
+# Inne pliki
+.DS_Store
+Thumbs.db
